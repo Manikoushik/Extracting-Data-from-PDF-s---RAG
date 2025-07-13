@@ -10,6 +10,9 @@ _**Here's how it works:**_
 
 **Augmentation & Generation:** This retrieved context is then fed to the LLM alongside the original query. The LLM then generates an answer based solely on the provided context, ensuring accuracy and relevance to your specific data.
 
+<img width="1830" height="879" alt="image" src="https://github.com/user-attachments/assets/5b5f418b-41d2-421b-823d-7ec0132fb29b" />
+
+
 _**The Core Difference: RAG vs. Standalone LLMs:**_
 
 
