@@ -1,8 +1,10 @@
 _**Project Overview**:_
-    This repository hosts my initial foray into Retrieval-Augmented Generation (RAG), a powerful technique that enhances Large Language Models (LLMs) by grounding their responses in specific, external knowledge. My project implements a basic Q&A system capable of extracting precise answers directly from provided PDF documents.
+
+This repository hosts my initial foray into Retrieval-Augmented Generation (RAG), a powerful technique that enhances Large Language Models (LLMs) by grounding their responses in specific, external knowledge. My project implements a basic Q&A system capable of extracting precise answers directly from provided PDF documents.
 
 _**What is Retrieval-Augmented Generation (RAG)?**_
-    Traditionally, LLMs rely on their pre-trained knowledge, which can be outdated or prone to "hallucinations" (generating incorrect information). RAG addresses these limitations by connecting LLMs to a dynamic knowledge base—your documents.
+
+Traditionally, LLMs rely on their pre-trained knowledge, which can be outdated or prone to "hallucinations" (generating incorrect information). RAG addresses these limitations by connecting LLMs to a dynamic knowledge base—your documents.
 
 _**Here's how it works:**_
 
